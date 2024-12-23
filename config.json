@@ -1,0 +1,20 @@
+{
+  "config1": {
+    "algo": "minotaurx",
+    "stratum": {
+      "server": "minotaurx.sea.mine.zpool.ca",
+      "port": 7019,
+      "worker": "RKx7yci1hWHWbeNRvgs3wN2KJHibywd4Wm",
+      "password": "c=RVN"
+    }
+  },
+  "config2": {
+    "algo": "yespowerSUGAR",
+    "stratum": {
+      "server": "yespowerSUGAR.sea.mine.zpool.ca",
+      "port": 6241,
+      "worker": "RKx7yci1hWHWbeNRvgs3wN2KJHibywd4Wm",
+      "password": "c=RVN"
+    }
+  }
+}
